@@ -1,4 +1,4 @@
-# AI and ML Practicals
+# CI and DC Practicals
 
 This repository contains practical implementations for various concepts in Artificial Intelligence and Machine Learning.
 
