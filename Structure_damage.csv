@@ -1,0 +1,6 @@
+﻿id,structure_name,cracks,vibrations,displacement,damage_status
+1,bridge1,1,0,0,no damage
+2,bridge2,1,1,1,damage
+3,building1,0,0,0,no damage
+4,building2,1,1,0,damage
+5,bridge3,0,1,1,damage
